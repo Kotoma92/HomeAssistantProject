@@ -1,0 +1,12 @@
+﻿Hello there
+How are you
+Turn on lights
+Turn off lights
+Change color to red
+Change color to green
+Change color to blue
+Random colors
+Party time
+Stop party time
+Flip a coin
+Shutdown
